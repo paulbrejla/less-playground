@@ -1,4 +1,5 @@
 # LESS
+- http://lesscss.org/
 
 ## Docs
 
@@ -18,7 +19,7 @@
         font-size: @size;
 }
 ```
-- Run `lessc styles.less styles.css`
+- Run `lessc style.less style.css` to compile `style.less` to `style.css`.
 ```
 .test-style {
   color: #f938ab;
